@@ -1,0 +1,124 @@
+,Name,Area,Dining_rating,Food_Items,Average_Cost,Coffee_availibility
+0,Coffee King Vesu,Vesu,4.3,"Cafe, Beverages, Desserts, Italian, Finger Food, Fast Food",400.0,False
+1,Cafe Beats Arena,Piplod,3.8,"Cafe, Coffee, Chinese, Continental, Fast Food, Street Food, Desserts, Beverages",400.0,True
+2,The Bungalow Cafe,Adajan Gam,3.8,"Cafe, Beverages, Pizza",400.0,False
+3,Cafe Mewaco,Piplod,3.9,"Cafe, Coffee, Fast Food, Shake, Beverages",300.0,True
+4,Coffee King,Adajan Gam,4.5,"Cafe, Beverages, Desserts, Italian, Finger Food, Fast Food",400.0,False
+5,Mykonos,Vesu,4.1,"Cafe, Coffee, Oriental, Italian, North Indian, Chinese, Desserts, Shake",600.0,True
+6,Thyme & Whisk,Piplod,4.0,"Cafe, Coffee, North Indian, Asian, Pizza, Continental, Desserts, Shake",950.0,True
+7,Unvind Cafe - Best Place To Unwind,City Light,unavailable,"Cafe, Coffee, Continental, Sandwich, Fast Food, Desserts, Shake, Beverages",400.0,True
+8,Café Noir Raw,Vesu,4.0,"Cafe, Coffee, Mexican, Italian, Japanese, Spanish, Arabian, Desserts",750.0,True
+9,The Garlic Knot,Piplod,3.6,"Cafe, Pizza, Pasta, Fast Food",300.0,False
+10,Xero Degrees,Vesu,3.9,"Cafe, Coffee, Shake, Beverages, Pizza, Burger, Sandwich, Fast Food",400.0,True
+11,Anytime at K’s,Athwa,unavailable,"Bakery, Coffee, Sushi",425.0,True
+12,Delissio,Piplod,unavailable,"Cafe, Coffee, North Indian, Chinese, Japanese, Desserts, Shake, Beverages",500.0,True
+13,Starbucks Coffee,City Light,4.3,"Beverages, Desserts",300.0,False
+14,Cafe Beats,Nana Varachha,4.4,"Italian, Sandwich, Wraps, Burger, North Eastern, Pizza, Chinese, Beverages",250.0,False
+15,Brewing Brokers Cafe,Vesu,3.5,"Cafe, Coffee, Pizza, Pasta, Italian, Mexican, Sandwich, Burger",500.0,True
+16,The Bungalow Coffee House,Vesu,4.2,"Cafe, Continental, Fast Food, Beverages, Lebanese, British",500.0,False
+17,Kinaara - The Cafe,Vesu,4.0,"Cafe, Oriental, Chinese, Italian, Pizza, Sandwich, Coffee, Shake",250.0,True
+18,Livestream Coffee,Vesu,3.3,"Cafe, Coffee, Ice Cream, Beverages, Fast Food",250.0,True
+19,Trezoro,Piplod,unavailable,"Cafe, Coffee, Sandwich, Italian, Continental, Fast Food, Desserts, Tea",650.0,True
+20,Cafe Beats,Mota Varachha,3.9,"Cafe, Coffee, Pizza, Sandwich, Fast Food, Chinese, Shake, Beverages",250.0,True
+21,Coffee Culture,Vesu,4.1,"Cafe, Coffee, North Indian, Chinese, Fast Food, Waffle, Desserts, Beverages",500.0,True
+22,Cafe De Meet,Piplod,3.9,"Cafe, Coffee, Fast Food, Beverages",350.0,True
+23,Koselig,Piplod,3.7,"Cafe, Coffee, Sandwich, Salad, Pizza, Italian, Burger, Desserts",600.0,True
+24,Meraki The Coffee House,City Light,3.8,"Cafe, Coffee, Desserts, Beverages",250.0,True
+25,Peiskos,Piplod,unavailable,"Cafe, Coffee, Fast Food, Pasta, Pizza, Shake",600.0,True
+26,Nothing Before Coffee,Vesu,3.9,"Beverages, Shake, Coffee, Street Food, Desserts",250.0,True
+27,Sky Deck,Adajan Gam,unavailable,"North Indian, Pizza, Pasta, Chinese, Continental, Salad, Desserts, Beverages",650.0,False
+28,HOT & SPICY BY BIPIN BHANDARI,"International Business Center, Piplod",New,"Cafe, Coffee, North Indian, Mediterranean, Asian, Desserts, Tea, Beverages",800.0,True
+29,Leaf Cafe,City Light,3.0,"Cafe, Coffee, Beverages, Pizza, Italian, Fast Food",300.0,True
+30,The Chocolate Room,Pal Gam,3.7,"Cafe, Coffee, Fast Food, Beverages, Desserts, Shake, Waffle, Pasta",425.0,True
+31,SnowEra - Korean Dessert & Snacks Cafe,Vesu,4.2,"Cafe, Beverages, Desserts, Sushi",400.0,False
+32,Juneberry Cheesecake,Mota Varachha,3.4,"Cafe, Shake, Beverages, Bakery, Desserts",500.0,False
+33,The Chocolate Room,Vesu,3.1,"Cafe, Coffee, Fast Food, Beverages, Desserts, Shake, Waffle, Pasta",425.0,True
+34,Moonstruck Coffee,Vesu,3.9,"Cafe, Coffee, Beverages, Pasta, Fast Food, Desserts",400.0,True
+35,The Good Stuff,City Light,4.3,"Fast Food, Desserts, Beverages",250.0,False
+36,Big Scoop Cafe,Piplod,unavailable,"Cafe, Tea, Shake, Beverages, Fast Food",275.0,False
+37,Subaka,Adajan Gam,unavailable,"Cafe, Coffee, Fast Food, Street Food, Bakery, Desserts, Shake, Beverages",275.0,True
+38,The Desi Wok,Althan Bhatar,unavailable,"Cafe, Coffee, Shake, North Indian, Chinese, Pizza, Sandwich, Fast Food",650.0,True
+39,The Hog Spot Café,Athwa,4.2,"Continental, Mexican, Pizza, Beverages",300.0,False
+40,Richie Rich - On Wheels,City Light,3.3,"North Indian, Chinese, Fast Food, Cafe, Coffee, Juices, Beverages",500.0,True
+41,Livestream Coffee - Piplod,Vesu,unavailable,"Cafe, Coffee, Sandwich, Pasta, Pizza, Continental, Desserts, Beverages",300.0,True
+42,The Good Stuff,Vesu,3.7,"Cafe, Fast Food, Desserts, Beverages",400.0,False
+43,Cafe Ashiana,Vesu,3.0,"Cafe, Coffee, Chinese, North Indian, Continental, Mexican, Desserts, Beverages",400.0,True
+44,Papa Bear's Kitchen,City Light,3.6,"Cafe, Coffee, Tea, Sandwich, Fast Food, Pizza, Desserts, Beverages",500.0,True
+45,The Gallery,Piplod,3.4,"Continental, Beverages, Salad, Bakery, Chinese, Fast Food, Juices, Coffee",300.0,True
+46,Let's Meet Cafe,"Safal Square, Vesu",4.6,"Fast Food, Shawarma, Beverages",150.0,False
+47,Gangour - Chai Cafe The Address,Vesu,4.3,"Cafe, Tea, Mexican, Fast Food, Beverages",275.0,False
+48,Kenny's Kitchen,Vesu,3.8,"Cafe, Coffee, Chinese, Fast Food, Beverages",250.0,True
+49,801 Speciality Coffee & More,Katargam,unavailable,"Cafe, Mexican, Pasta, Pizza, Sandwich, Fast Food, Desserts, Beverages",600.0,False
+50,Cream 'N' Crust Café,Vesu,4.8,"Cafe, Bakery, Fast Food, Desserts, Ice Cream, Beverages",400.0,False
+51,TCD - The Cafe Dew,Dumas,3.9,"Fast Food, Sandwich, Continental, Desserts, Beverages",250.0,False
+52,The Flat White Coffee House,Piplod,unavailable,"Cafe, Coffee, Fast Food",250.0,True
+53,Red Flames Pizzaria,Sarthana,4.2,"Cafe, Pizza, Fast Food, Beverages",300.0,False
+54,BB Social Cafe,Vesu,3.9,"Cafe, Mexican, Continental, Fast Food, Beverages, Desserts",350.0,False
+55,Pokket Cafe,Vesu,3.1,"Coffee, Fast Food, Sandwich, Street Food, Pizza, Italian, Desserts, Beverages",250.0,True
+56,The Belgian Waffle Co.,Adajan Gam,4.2,"Waffle, Pancake, Ice Cream, Desserts, Beverages",250.0,False
+57,Nukkad Cafe And Restro,City Light,3.8,"Pizza, Fast Food, Chinese, Sandwich, Burger, Desserts, Coffee, Beverages",300.0,True
+58,Cafe Coco - Courtyard By Marriott,"Courtyard By Marriott, Dumas",2.9,"Coffee, Italian, Continental, Beverages, Shake",400.0,True
+59,Tea Post,Vesu,unavailable,"Tea, Coffee, Beverages, Fast Food, Street Food, Sandwich",150.0,True
+60,Lord Petrick Burger & Coffee,Umarwada,unavailable,"Burger, Coffee, Cafe, Beverages, Shake, Fast Food, Desserts",150.0,True
+61,Bean Addiction Cafe,Pal Gam,3.5,"Fast Food, Desserts, Sichuan, Beverages",300.0,False
+62,Irenic,Vesu,unavailable,"Coffee, Desserts, Sandwich, Beverages, American, Cafe",250.0,True
+63,Cafe Driftt,Vesu,unavailable,"Cafe, Fast Food, Italian, Shake, Beverages",300.0,False
+64,Koffee 143,Adajan Gam,3.9,"Beverages, Fast Food, Shake, Chinese, Tea, Juices, Desserts",250.0,False
+65,Stories Cafe,Piplod,unavailable,"Cafe, Coffee, Italian, Mexican, Fast Food, Bakery, Beverages",350.0,True
+66,Cornerstone Cafe,Piplod,3.6,"Coffee, Tea, Shake, Beverages",200.0,True
+67,Cafe Coffee Day,"Riddhi Residency, Adajan Gam",3.0,"Cafe, Bakery, Tea, Shake, Beverages, Sandwich, Desserts",350.0,False
+68,Cream 'N' Crust,Adajan Gam,3.2,"Cafe, Bakery, Fast Food, Desserts, Ice Cream, Beverages",400.0,False
+69,Players Sports & Cafe,Magdalla,3.3,"Cafe, Fast Food, Beverages",250.0,False
+70,Cafe N Cravings,Vesu,3.5,"Cafe, Coffee, Burger, Sandwich, Fast Food, Shake, Beverages",200.0,True
+71,Kukdi Chopdi,Piplod,unavailable,"Coffee, Fast Food, Tea, Shake, Beverages, Sandwich, Pizza",350.0,True
+72,Coffea,Piplod,unavailable,"Cafe, Coffee, Mexican, Continental, Sandwich, Pizza, Fast Food, Beverages",325.0,True
+73,Pizza'hoy Western Style Pizza,Adajan Gam,unavailable,"Cafe, Coffee, Shake, Beverages, Pizza, Italian",250.0,True
+74,Cafetrio,Vesu,unavailable,"Cafe, Coffee, Continental, Pasta, Pizza, Salad, Desserts, Beverages",400.0,True
+75,White House Cafe,Adajan Patiya,unavailable,"Cafe, Coffee, Pasta, Sandwich, Pizza, Chinese, Fast Food, Beverages",150.0,True
+76,Mr Chai Bike,Vesu,unavailable,"Cafe, Coffee, Tea, Pizza, Fast Food, Desserts, Shake, Beverages",250.0,True
+77,The Good Stuff,Mota Varachha,unavailable,"Cafe, Coffee",150.0,True
+78,Snowera - Korean Desserts Snacks Cafe,Katargam,unavailable,"Cafe, Coffee, Juices, North Indian, Sushi",500.0,True
+79,Coffee King,Dumas,unavailable,"Beverages, Fast Food, Desserts",250.0,False
+80,Canteen Cafe,Gotalawadi,New,"Cafe, Coffee, South Indian, North Indian, Fast Food, Chinese, Shake, Beverages",175.0,True
+81,Downtown Cafe & Restro,Magob,unavailable,"Cafe, Coffee, Pizza, Burger, Sandwich, Waffle, Desserts, Shake",325.0,True
+82,Cream 'N' Crust Cafe,Athwa,unavailable,"Bakery, Cafe, Coffee, Fast Food, Ice Cream, Desserts, Beverages",250.0,True
+83,House Of Hue.gah,Utran,unavailable,"Cafe, Fast Food",200.0,False
+84,99 Pancakes,Varachha,unavailable,"Cafe, Coffee, Pancake, Fast Food, Waffle, Desserts, Tea, Shake",300.0,True
+85,BK Cafe By Burger King,Piplod,unavailable,"Cafe, Fast Food, Beverages",250.0,False
+86,Chai Sutta Bar,Vesu,unavailable,"Cafe, Beverages, Fast Food, Sandwich",250.0,False
+87,Rinku's Cakery,Katargam,New,"Cafe, Coffee, Beverages, Shake, Bakery",200.0,True
+88,Koffeekraft,City Light,unavailable,"Coffee, Fast Food, Desserts, Beverages",175.0,True
+89,Kinaara The Dhaba Essence,Vesu,unavailable,"Cafe, Coffee, Continental, Chinese, Fast Food, Asian, Wraps, Beverages",400.0,True
+90,LetsEat Restro And Cafe,Dumas,unavailable,"North Indian, South Indian, Chinese, Italian",175.0,False
+91,Torque Cafe - Brew to Perfection,City Light,unavailable,"Cafe, Coffee, Beverages",200.0,True
+92,HNK Foods And Cafe,Jahangir Pura,unavailable,"Cafe, Coffee, North Indian, Chinese, Fast Food, Burger, Desserts, Beverages",150.0,True
+93,Covalent Coffee,City Light,unavailable,"Cafe, Beverages, Desserts, Continental",275.0,False
+94,Wild Bean Cafe,Kamrej,unavailable,"Cafe, Fast Food, Sandwich, Wraps, Desserts, Coffee, Tea, Shake",400.0,True
+95,Shaker's Galleria,Pal Gam,unavailable,"Cafe, Coffee, Shake, Pancake, Waffle, Desserts, Beverages",250.0,True
+96,McCafe By McDonald's,Mota Varachha,unavailable,"Cafe, Coffee, Shake, Fast Food, Beverages",175.0,True
+97,Oxy Burger,Mota Varachha,unavailable,"Chinese, Burger, Pizza, Fast Food",125.0,False
+98,HNK Foods & Cafe,Jahangir Pura,unavailable,"Cafe, Coffee, North Indian, Burger, Fast Food, Ice Cream, Shake, Juices",250.0,True
+99,Black Butter Café,Adajan Gam,unavailable,"Cafe, Coffee, Sandwich, Pizza, Salad, Street Food",100.0,True
+100,Teemtee Kofii,City Light,unavailable,"Cafe, Coffee, Fast Food, Sandwich, Burger",200.0,True
+101,The Waves Cafe,Vesu,unavailable,"Cafe, Desserts",275.0,False
+102,Cafe 29,Piplod,unavailable,"Cafe, North Indian, Fast Food, Burger, Beverages",300.0,False
+103,Mr ChaiBike,Vesu,unavailable,"Cafe, Tea",200.0,False
+104,Nescafe,Vesu,unavailable,"Cafe, Beverages, Pizza, Sandwich, Fast Food, Street Food",75.0,False
+105,Cream 'N' Crust Café,Pal Gam,unavailable,"Cafe, Coffee, Beverages, Bakery, Desserts, Pizza, Fast Food",300.0,True
+106,14th Feb Food Cafe,Adajan Gam,unavailable,"Cafe, Coffee, Sandwich, Pizza, Chinese, Beverages, Shake, Fast Food",275.0,True
+107,Urban Theka Cafe,Kamrej,unavailable,"Cafe, Coffee, Sandwich, Pizza, Burger, Pasta, Waffle, Beverages",250.0,True
+108,Hidden Leaf Village,Magdalla,unavailable,"Cafe, Chinese, North Indian, Continental, Mughlai, Fast Food, Beverages",550.0,False
+109,Roka Cafe,Kamrej,unavailable,"Cafe, Fast Food, Street Food, Chinese, North Indian, Beverages",250.0,False
+110,Ana Sagar Restaurant,Anjana,unavailable,"Cafe, Coffee",250.0,True
+111,Baked,Pal Gam,unavailable,Cafe,200.0,False
+112,The Chai Shotts,Katargam,unavailable,"Cafe, Coffee, Tea, Mexican, Fast Food, Waffle, Shake, Beverages",250.0,True
+113,Nit's Cafe,Vesu,unavailable,"Cafe, Coffee, Fast Food, Shake, Beverages",175.0,True
+114,Blue Vanilla Patisserie,Vesu,4.1,"Cafe, Coffee, Beverages, Fast Food, Desserts",300.0,True
+115,The Chocolate Room,Vesu,3.4,"Cafe, Italian, Fast Food, Desserts, Coffee, Shake, Beverages",450.0,True
+116,Kraves,Khajod,3.7,"Coffee, Tea, Continental, Pasta, Pizza, Biryani, Chinese, Desserts",500.0,True
+117,Bogo Cafe,Piplod,unavailable,"Cafe, Coffee, Fast Food, Continental",350.0,True
+118,Cafe IDA,Vesu,unavailable,"Cafe, Coffee, Pizza, Pasta, Chinese, Beverages",625.0,True
+119,Karwaan The Cafe,Jahangir Pura,unavailable,"Cafe, Coffee, Fast Food, Desserts, Shake, Beverages",200.0,True
+120,Karwaan The Cafe,Ramnagar,unavailable,"Fast Food, Street Food",150.0,False
+121,Meadows,Vesu,New,"Cafe, Coffee, Gujarati, North Indian, Italian, Thai, Fast Food, Shake",650.0,True
+122,Coffee Experience Center,Piplod,unavailable,"Cafe, Coffee, Fast Food, Desserts",500.0,True
